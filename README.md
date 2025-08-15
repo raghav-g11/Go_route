@@ -39,11 +39,11 @@ Ensured seamless API communication with the React Native frontend.
 
 Raghavan G – Backend Developer (Django, PostgreSQL, API Integration)
 
-Poorvaja – Frontend & AR Navigation
+Poorvaja – DataBase and UI
 
-Malaveeka – UI/UX Design
+Malaveeka – UI/UX DesignIoT Sensor Integration
 
-Praveen Kumar – IoT Sensor Integration
+Praveen Kumar – UI/UX Design
 
 Vijay Kumar – Route Optimization & Testing
 
